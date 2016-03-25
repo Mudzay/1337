@@ -1,0 +1,5 @@
+D:\cSharp\leet\leetspeech\leetspeech\bin\Release\leetspeech.exe.config
+D:\cSharp\leet\leetspeech\leetspeech\bin\Release\leetspeech.exe
+D:\cSharp\leet\leetspeech\leetspeech\bin\Release\leetspeech.pdb
+D:\cSharp\leet\leetspeech\leetspeech\obj\Release\leetspeech.exe
+D:\cSharp\leet\leetspeech\leetspeech\obj\Release\leetspeech.pdb

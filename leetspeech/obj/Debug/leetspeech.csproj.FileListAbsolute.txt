@@ -1,0 +1,6 @@
+D:\cSharp\leet\leetspeech\leetspeech\bin\Debug\leetspeech.exe.config
+D:\cSharp\leet\leetspeech\leetspeech\bin\Debug\leetspeech.exe
+D:\cSharp\leet\leetspeech\leetspeech\bin\Debug\leetspeech.pdb
+D:\cSharp\leet\leetspeech\leetspeech\obj\Debug\leetspeech.csprojResolveAssemblyReference.cache
+D:\cSharp\leet\leetspeech\leetspeech\obj\Debug\leetspeech.exe
+D:\cSharp\leet\leetspeech\leetspeech\obj\Debug\leetspeech.pdb
